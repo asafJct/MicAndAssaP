@@ -1,0 +1,15 @@
+c:\users\asaf0\onedrive\documents\visual studio 2015\Projects\dotNetProject_4730_5432\dotNetProject_4730_5432\bin\Debug\dotNetProject_4730_5432.exe.config
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\bin\Debug\dotNetProject_4730_5432.exe.config
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\bin\Debug\dotNetProject_4730_5432.exe
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\bin\Debug\dotNetProject_4730_5432.pdb
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\dotNetProject_4730_5432.csprojResolveAssemblyReference.cache
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\MainWindow.g.cs
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\App.g.cs
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\dotNetProject_4730_5432_MarkupCompile.cache
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\dotNetProject_4730_5432_MarkupCompile.lref
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\MainWindow.baml
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\dotNetProject_4730_5432.g.resources
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\dotNetProject_4730_5432.Properties.Resources.resources
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\dotNetProject_4730_5432.csproj.GenerateResource.Cache
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\dotNetProject_4730_5432.exe
+C:\Users\asaf0\Desktop\PROJECT\dotNetProject_4730_5432\dotNetProject_4730_5432\obj\Debug\dotNetProject_4730_5432.pdb
